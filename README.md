@@ -1,3 +1,9 @@
+## Example theme to Wordpress in Kubernetes
+
+**More info: https://github.com/Eskilmar/kubernetes-dev-env**
+
+Theme is based underscores Wordpress theme.
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
